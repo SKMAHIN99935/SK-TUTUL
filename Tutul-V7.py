@@ -212,7 +212,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 4.7 ]          ║\033[1;35m 
+╠══[VERSION                  • 4.8 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -572,7 +572,9 @@ def passwrd():
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
-            else:
+                    pwv.append(frs+'i love you')
+                    pwv.append(frs+'11112222')
+           else:
                 if len(frs)<3:
                     pwv.append(nmf)
                 else:
@@ -592,7 +594,9 @@ def passwrd():
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
-            if 'ya' in pwpluss:
+                    pwv.append(frs+'i love you')
+                    pwv.append(frs+'11112222')
+           if 'ya' in pwpluss:
                 for xpwd in pwnya:
                     pwv.append(xpwd)
             else:pass
