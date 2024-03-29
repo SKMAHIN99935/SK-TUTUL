@@ -26,7 +26,7 @@ time.sleep(2)
 os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
 #------------------[ Tutul-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
-ua = ["Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 13; LLD-AL20 Build/HONORLLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.5938.64 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 10; Redmi 5 Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 9; SM-J701MT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",]
