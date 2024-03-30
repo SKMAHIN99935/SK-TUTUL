@@ -29,6 +29,8 @@ os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
 ua = ["Mozilla/5.0 (Linux; Android 13; LLD-AL20 Build/HONORLLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.5938.64 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3947.31 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; U; Android 10; TECNO KD7 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 8.1.0; vivo Y91c Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.48 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 11; CPH2067 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.4 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; U; Android 13; en-gb; Redmi Note 11R Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 9; SM-J701MT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 7.1.1; no) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Safari/537.36",]
