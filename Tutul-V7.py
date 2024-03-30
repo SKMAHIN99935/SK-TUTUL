@@ -212,7 +212,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 4.8 ]          ║\033[1;35m 
+╠══[VERSION                  • 4.9 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -557,6 +557,7 @@ def passwrd():
                     pass
                 else:
                     pwv.append(frs+'12')
+                    pwv.append(frs+'1')
                     pwv.append(frs+'123')
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
@@ -578,6 +579,7 @@ def passwrd():
                     pwv.append(nmf)
                 else:
                     pwv.append(frs+'12')
+                    pwv.append(frs+'1')
                     pwv.append(frs+'123')
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
