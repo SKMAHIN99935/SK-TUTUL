@@ -27,18 +27,24 @@ os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
 #------------------[ Tutul-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 13; LLD-AL20 Build/HONORLLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.5938.64 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 15; LLD-AL20 Build/HONORLLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.5131.36 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3947.31 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; U; Android 10; TECNO KD7 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.1.0; vivo Y91c Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.48 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; CPH2067 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.4 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; U; Android 13; en-gb; Redmi Note 11R Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 9; SM-J701MT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 14; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.5727.37 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 7.1.1; no) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; Nokia G10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19D52",]
 ua = ["Mozilla/5.0 (Linux; Android 14; Android 8.0.0; SM-J330G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.5373.87 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4758.101 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; moto g(40) fusion Build/RRI31.Q1-42-51-12; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; U; Android 10; M2004J19PI Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 OPR/52.2.2254.54723",]
+ua = ["Mozilla/5.0 (Linux; Android 11; 21091116AG Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.109 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 12; M2101K6G Build/SKQ1.210908.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.65 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; U; Android 11; th-th; Redmi Note 11 Pro 5G Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36",]
  
 ugen2=[]
 ugen=[]
@@ -215,7 +221,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 5.2 ]          ║\033[1;35m 
+╠══[VERSION                  • 5.3 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -576,7 +582,7 @@ def passwrd():
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
                     pwv.append(frs+'@@##')
-                    pwv.append('@+frs+@')
+                    pwv.append('@'+frs+'@')
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
@@ -601,7 +607,7 @@ def passwrd():
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
                     pwv.append(frs+'@@##')
-                    pwv.append('@+frs+@')
+                    pwv.append('@'+frs+'@')
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
