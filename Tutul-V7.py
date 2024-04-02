@@ -45,6 +45,11 @@ ua = ["Mozilla/5.0 (Linux; U; Android 10; M2004J19PI Build/QP1A.190711.020; wv) 
 ua = ["Mozilla/5.0 (Linux; Android 11; 21091116AG Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.109 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 12; M2101K6G Build/SKQ1.210908.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.65 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; U; Android 11; th-th; Redmi Note 11 Pro 5G Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 13; RMX3661 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.154 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 13; RMX3663 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 11; itel A512W Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.143 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 11; itel P552W Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",]
+
  
 ugen2=[]
 ugen=[]
@@ -221,7 +226,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 5.3 ]          ║\033[1;35m 
+╠══[VERSION                  • 5.4 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -583,6 +588,7 @@ def passwrd():
                     pwv.append(frs+'@#')
                     pwv.append(frs+'@@##')
                     pwv.append('@'+frs+'@')
+                    pwv.append(frs+'##')
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
@@ -608,6 +614,7 @@ def passwrd():
                     pwv.append(frs+'@#')
                     pwv.append(frs+'@@##')
                     pwv.append('@'+frs+'@')
+                    pwv.append(frs+'##')
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
