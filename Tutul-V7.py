@@ -49,6 +49,8 @@ ua = ["Mozilla/5.0 (Linux; Android 13; RMX3661 Build/RKQ1.211119.001; wv) AppleW
 ua = ["Mozilla/5.0 (Linux; Android 13; RMX3663 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; itel A512W Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.143 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; itel P552W Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 10; G10+) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 8.1.0; V155 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36",]
 
  
 ugen2=[]
@@ -226,7 +228,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 5.4 ]          ║\033[1;35m 
+╠══[VERSION                  • 5.5 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
