@@ -51,6 +51,8 @@ ua = ["Mozilla/5.0 (Linux; Android 11; itel A512W Build/RP1A.201005.001; wv) App
 ua = ["Mozilla/5.0 (Linux; Android 11; itel P552W Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 10; G10+) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.1.0; V155 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 14; moto g04 Build/ULA34.89-100-7; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 14; moto g24 Build/UTA34.82-36; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36",]
 
  
 ugen2=[]
