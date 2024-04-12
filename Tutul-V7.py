@@ -543,7 +543,7 @@ def setting():
     print('\033[0;91m==================')
     print('\033[0;91m==================')
     print("\033[97;1m[\033[92;1m1\033[97;1m] METHOD 1 [\033[0;92mCookies Show \033[0;91mcp Cp id Show\033[1;37m]")
-    print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCookies show \033[0;94mcp Cp id Show\033[1;37m]")
+    print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCookies show \033[0;91mcp Cp id Show\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[97;1m[\033[92;1m•\033[97;1m] CHOOSE : ')
     #os.system("xdg-open https://www.facebook.com/Tutul.King.Ok.Bro")
