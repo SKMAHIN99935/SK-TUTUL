@@ -542,8 +542,8 @@ def setting():
             id2.insert(xx,bacot)
     print('\033[0;91m==================')
     print('\033[0;91m==================')
-    print("\033[97;1m[\033[92;1m1\033[97;1m] METHOD 1 [\033[0;92mCookies Show \033[0;91mCP ID Not Show\033[1;37m]")
-    print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCp id Show\033[1;37m]")
+    print("\033[97;1m[\033[92;1m1\033[97;1m] METHOD 1 [\033[0;92mCookies Show \033[0;91mcp Cp id Show\033[1;37m]")
+    print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCookies show \033[0;94mcp Cp id Show\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[97;1m[\033[92;1m•\033[97;1m] CHOOSE : ')
     #os.system("xdg-open https://www.facebook.com/Tutul.King.Ok.Bro")
@@ -568,7 +568,7 @@ def passwrd():
     print("\033[97;1m[\033[92;1m+\033[97;1m] \033[10;95mCLONING SPEED SUPER FAST-!✅")
     print(f'\033[97;1m[\033[92;1m•\033[97;1m] \033[1;92mUse Flight Mode For Speed Up ')
     print('\033[0;97m===============================================')
-    with tred(max_workers=30) as pool:
+    with tred(max_workers=35) as pool:
         for yuzong in id2:
             idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
             frs = nmf.split(' ')[0]
@@ -646,7 +646,7 @@ def passwrd():
     print('\033[97;1m[\033[92;1m•\033[97;1m] OK :\033[0;92m %s '%(ok))
     print('\033[97;1m[\033[92;1m+\033[97;1m] CP :\033[0;93m %s '%(cp))
     print('\n\033[1;37m===================================')
-    woi = input('\033[97;1m[\033[92;1m+\033[97;1m] \033[1;37m ENTER TO BACK')
+    woi = input('\033[97;1m[\033[92;1m+\033[97;1m] \033[1;37m ENTER TO BACK TUTUL Menu')
     os.system("python nono.py")
     exit()
  
