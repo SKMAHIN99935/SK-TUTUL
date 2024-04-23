@@ -1,4 +1,3 @@
-
 import os
 #-----------------[ Tutul-King ]-------------------#
  
@@ -62,7 +61,8 @@ ua = ["Mozilla/5.0 (Linux; Android 14; moto g24 Build/UTA34.82-36; wv) AppleWebK
 ua = ["Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; ; Lumia 929) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Mobile Safari/537.36 Edge/12.10149",]
 ua = ["Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 929) like Gecko",]
 ua = ["Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 929) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537",]
-
+ua = ["Mozilla/5.0 (Linux; Android 13; NX709S Build/TKQ1.221013.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 5.0.2; NX513J Build/LRX22G) AppleWebKit/537.36",]
  
 ugen2=[]
 ugen=[]
@@ -574,7 +574,7 @@ def passwrd():
     print("\033[97;1m[\033[92;1m+\033[97;1m] \033[10;95mCLONING SPEED SUPER FAST-!✅")
     print(f'\033[97;1m[\033[92;1m•\033[97;1m] \033[1;92mUse Flight Mode For Speed Up ')
     print('\033[0;97m===============================================')
-    with tred(max_workers=35) as pool:
+    with tred(max_workers=40) as pool:
         for yuzong in id2:
             idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
             frs = nmf.split(' ')[0]
