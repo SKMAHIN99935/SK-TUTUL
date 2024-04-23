@@ -583,8 +583,8 @@ def passwrd():
                 if len(frs)<3:
                     pass
                 else:
-                    pwv.append(frs+'12')
                     pwv.append(frs+'1')
+                    pwv.append(frs+'12')
                     pwv.append(frs+'123')
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
@@ -596,6 +596,7 @@ def passwrd():
                     pwv.append('57273200')
                     pwv.append('i love you')
                     pwv.append(frs+'@123')
+                    pwv.append(frs+'@12')
                     pwv.append(frs+'@')
                     pwv.append(frs+'@@')
                     pwv.append(frs+'@@@')
@@ -612,8 +613,8 @@ def passwrd():
                 if len(frs)<3:
                     pwv.append(nmf)
                 else:
-                    pwv.append(frs+'12')
                     pwv.append(frs+'1')
+                    pwv.append(frs+'12')
                     pwv.append(frs+'123')
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
@@ -625,6 +626,7 @@ def passwrd():
                     pwv.append('57273200')
                     pwv.append('i love you')
                     pwv.append(frs+'@123')
+                    pwv.append(frs+'@12')
                     pwv.append(frs+'@')
                     pwv.append(frs+'@@')
                     pwv.append(frs+'@@@')
