@@ -239,7 +239,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 6.0 ]          ║\033[1;35m 
+╠══[VERSION                  • 6.3 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -548,7 +548,7 @@ def setting():
             id2.insert(xx,bacot)
     print('\033[0;91m==================')
     print('\033[0;91m==================')
-    print("\033[97;1m[\033[92;1m1\033[97;1m] METHOD 1 [\033[0;92mCookies Show \033[0;91mCP ID Show\033[1;37m]")
+    print("\033[97;1m[\033[92;1m1\033[97;1m] METHOD 1 [\033[0;92mCookies Show \033[0;93mCp id Show\033[1;37m]")
     print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCp id Show\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[97;1m[\033[92;1m•\033[97;1m] CHOOSE : ')
@@ -589,6 +589,8 @@ def passwrd():
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
                     pwv.append(frs+'123456')
+                    pwv.append(frs+'1234567')
+                    pwv.append(frs+'12345678')
                     pwv.append(frs+'143')
                     pwv.append(nmf)
                     pwv.append('57273200')
@@ -616,6 +618,8 @@ def passwrd():
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
                     pwv.append(frs+'123456')
+                    pwv.append(frs+'1234567')
+                    pwv.append(frs+'12345678')
                     pwv.append(frs+'143')
                     pwv.append(nmf)
                     pwv.append('57273200')
