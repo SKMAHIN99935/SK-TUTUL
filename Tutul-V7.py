@@ -596,7 +596,8 @@ def passwrd():
                     pwv.append(frs+'143')
                     pwv.append(nmf)
                     pwv.append(nml)
-                    pwv.append(
+                    pwv.append(nmfrslas)
+                    pwv.append(nmfrs las)
                     pwv.append('57273200')
                     pwv.append('i love you')
                     pwv.append(frs+'@123')
@@ -613,8 +614,10 @@ def passwrd():
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
+                    pwv.append(frs+'1111')
             else:
                 if len(frs)<3:
+                if len(las)<3:
                     pwv.append(nmf)
                 else:
                     pwv.append(frs+'1')
@@ -628,6 +631,9 @@ def passwrd():
                     pwv.append(frs+'11112222')
                     pwv.append(frs+'143')
                     pwv.append(nmf)
+                    pwv.append(nml)
+                    pwv.append(nmfrslas)
+                    pwv.append(nmfrs las)
                     pwv.append('57273200')
                     pwv.append('i love you')
                     pwv.append(frs+'@123')
@@ -644,6 +650,7 @@ def passwrd():
                     pwv.append(frs+'1122')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
+                    pwv.append(frs+'1111')
             if 'ya' in pwpluss:
                 for xpwd in pwnya:
                     pwv.append(xpwd)
