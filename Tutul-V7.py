@@ -245,7 +245,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 6.7 ]          ║\033[1;35m 
+╠══[VERSION                  • 6.8 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -625,9 +625,7 @@ def passwrd():
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
                     pwv.append(frs+'123456')
-                    pwv.append(frs+'1234567')
-                    pwv.append(frs+'12345678')
-                    pwv.append(frs+'11112222')
+                    pwv.append(frs+'111222')
                     pwv.append(frs+'143')
                     pwv.append(nmf)
                     pwv.append('57273200')
@@ -640,6 +638,7 @@ def passwrd():
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
                     pwv.append(frs+'@@##')
+	            pwv.append(frs+'@#@#')
                     pwv.append('@'+frs+'@')
                     pwv.append(frs+'##')
                     pwv.append(frs+'@#123')
@@ -657,9 +656,7 @@ def passwrd():
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
                     pwv.append(frs+'123456')
-                    pwv.append(frs+'1234567')
-                    pwv.append(frs+'12345678')
-                    pwv.append(frs+'11112222')
+                    pwv.append(frs+'111222')
                     pwv.append(frs+'143')
                     pwv.append(nmf)
                     pwv.append('57273200')
@@ -672,6 +669,7 @@ def passwrd():
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
                     pwv.append(frs+'@@##')
+	            pwv.append(frs+'@#@#')
                     pwv.append('@'+frs+'@')
                     pwv.append(frs+'##')
                     pwv.append(frs+'@#123')
