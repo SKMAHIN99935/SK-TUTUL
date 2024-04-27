@@ -80,7 +80,7 @@ try:
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
-prox=open('.prox.txt','r').read().splitlines()
+#prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
     a='Mozilla/5.0 (Symbian/3; Series60/'
     b=random.randrange(1, 9)
@@ -245,7 +245,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 6.5 ]          ║\033[1;35m 
+╠══[VERSION                  • 6.7 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
