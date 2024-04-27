@@ -67,6 +67,8 @@ ua = ["Mozilla/5.0 (Linux; Android 13; NX709S Build/TKQ1.221013.002; wv) AppleWe
 ua = ["Mozilla/5.0 (Linux; Android 5.0.2; NX513J Build/LRX22G) AppleWebKit/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 4.2.2; Primo R3 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 13; Infinix X6731B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.84 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 11; Infinix X6810 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36",]
  
 ugen2=[]
 ugen=[]
