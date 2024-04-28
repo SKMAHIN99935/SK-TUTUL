@@ -42,6 +42,8 @@ ua = ["Mozilla/5.0 (Linux; Android 7.1.1; no) AppleWebKit/537.36 (KHTML, like Ge
 ua = ["Mozilla/5.0 (Linux; Android 11; Nokia G10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Series40; Nokia5130c-2/06.94; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/5.5.0.0.27",]
 ua = ["Mozilla/5.0 (Linux; Android 13; Nokia G310 5G Build/TKQ1.221223.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.135 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 10; Nokia 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/8.6.395 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Series40; Nokia5130c-2/06.94; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/5.5.0.0.27",]
 ua = ["Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19D52",]
 ua = ["Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",]
 ua = ["Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15F79",]
@@ -245,7 +247,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 6.8 ]          ║\033[1;35m 
+╠══[VERSION                  • 6.9 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
