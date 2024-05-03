@@ -74,6 +74,7 @@ ua = ["Mozilla/5.0 (Linux; Android 11; Infinix X6810 Build/RP1A.200720.011; wv) 
 ua = ["Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0",]
 ua = ["Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0",]
 ua = ["Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36",]
+ua = ["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.9.8828.61 Safari/537.36",]
  
 ugen2=[]
 ugen=[]
@@ -250,7 +251,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 7.0 ]          ║\033[1;35m 
+╠══[VERSION                  • 7.1 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
