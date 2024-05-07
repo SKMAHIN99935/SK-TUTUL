@@ -23,7 +23,7 @@ time.sleep(5)
 os.system('clear')
 print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mJOIN MY SCRIPT GIFT GROUP")
 time.sleep(2)
-os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
+#os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
 #------------------[ Tutul-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 13; LLD-AL20 Build/HONORLLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.5938.64 Mobile Safari/537.36",]
@@ -76,6 +76,8 @@ ua = ["Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firef
 ua = ["Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36",]
 ua = ["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.9.8828.61 Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 10; Redmi 5 Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 7.1.2; Xiaomi 10 Pro Build/MBFMIEK) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",]
+ua = ["Mozilla/5.0 (Linux; Android 7.1.1; Redmi 11 lite Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36,"]
  
 ugen2=[]
 ugen=[]
@@ -252,7 +254,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 7.1 ]          ║\033[1;35m 
+╠══[VERSION                  • 7.2 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
