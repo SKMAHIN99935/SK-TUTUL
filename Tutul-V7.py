@@ -27,12 +27,9 @@ time.sleep(2)
 #------------------[ Tutul-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 13; LLD-AL20 Build/HONORLLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.5938.64 Mobile Safari/537.36",]
-ua = ["Mozilla/5.0 (Linux; Android 15; LLD-AL20 Build/HONORLLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.5131.36 Mobile Safari/537.36",]
-ua = ["Mozilla/5.0 (Linux; Android 11; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3947.31 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; U; Android 10; TECNO KD7 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.1.0; vivo Y91c Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.48 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; CPH2067 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.4 Mobile Safari/537.36",]
-ua = ["Mozilla/5.0 (Linux; U; Android 13; en-gb; Redmi Note 11R Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 9; SM-J701MT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 14; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.5727.37 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 14; SM-S918B Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.15 Mobile Safari/537.3",]
@@ -45,7 +42,6 @@ ua = ["Mozilla/5.0 (Linux; Android 13; Nokia G310 5G Build/TKQ1.221223.001; wv) 
 ua = ["Mozilla/5.0 (Linux; Android 10; Nokia 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/8.6.395 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Series40; Nokia5130c-2/06.94; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/5.5.0.0.27",]
 ua = ["Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19D52",]
-
 ua = ["Mozilla/5.0 (Linux; Android 14; Android 8.0.0; SM-J330G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.5373.87 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4758.101 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; moto g(40) fusion Build/RRI31.Q1-42-51-12; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36",]
@@ -53,14 +49,12 @@ ua = ["Mozilla/5.0 (Linux; U; Android 10; M2004J19PI Build/QP1A.190711.020; wv) 
 ua = ["Mozilla/5.0 (Linux; Android 11; 21091116AG Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.109 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 12; M2101K6G Build/SKQ1.210908.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.65 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; U; Android 11; th-th; Redmi Note 11 Pro 5G Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36",]
-
 ua = ["Mozilla/5.0 (Linux; Android 13; RMX3663 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; itel A512W Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.143 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 11; itel P552W Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 10; G10+) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.1.0; V155 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 14; moto g04 Build/ULA34.89-100-7; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36",]
-ua = ["Mozilla/5.0 (Linux; Android 14; moto g24 Build/UTA34.82-36; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; ; Lumia 929) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Mobile Safari/537.36 Edge/12.10149",]
 ua = ["Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/8.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 929) like Gecko",]
 ua = ["Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 929) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537",]
