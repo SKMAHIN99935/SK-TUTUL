@@ -39,7 +39,8 @@ ua = ["Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020; wv) Appl
 ua = ["Mozilla/5.0 (Linux; Android 11; moto g(40) fusion Build/RRI31.Q1-42-51-12; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 6.0.1; ONE E1003 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (X11; Ubuntu; Linux; rv:84.0) Gecko/20100101 Firefox/84.0",]
-ua = ["Mozilla/5.0 (Linux; Android 14; 2107113SG Build/UKQ1.231207.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.8 Mobile Safari/537.3"]
+ua = ["Mozilla/5.0 (Linux; Android 14; 2107113SG Build/UKQ1.231207.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.8 Mobile Safari/537.3",]
+ua = ["Mozilla/5.0 (Linux; Android 10; Primo GM4 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36",]
  
 ugen2=[]
 ugen=[]
